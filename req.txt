@@ -1,0 +1,10 @@
+ipywidgets
+kagglehub
+pandas
+matplotlib
+scikit-learn==1.5.2
+seaborn
+xgboost 
+catboost
+lightgbm
+jinja2
